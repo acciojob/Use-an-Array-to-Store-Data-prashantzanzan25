@@ -1,2 +1,2 @@
-let yourArray = ["Hello", 56, true, "World", 9.5];
+let yourArray = ["index.html", 0.5, true, "styles.css", false, javascript.js];
 
